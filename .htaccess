@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Area"
+AuthUserFile /var/www/admin/data/www/verstka.digitalwf.ru/passw/.htpasswd
+Require valid-user
